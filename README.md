@@ -7,6 +7,11 @@ O Projeto é um trabalho da disciplina de Teoria da Computação, onde recebemos
 A linguagem recebida foi R, sendo uma linguagem voltada para o perfil mais matemático e analítico,
 propus a professora da disciplina fazer uma análise simples sobre as atividades propostas por ela durante as aulas do semestre.
 
+## ⁉️ Objetivos
+
+Os Objetivos dessa análise é responder 3 perguntas bens simples, qual atividade os alunos tiveram menos dificuldade, qual atividades os alunos tiveram maior dificuldade,
+por fim o que é melhor para o rendimento do aluno, atividades em sala ou para entregar depois.
+
 ## 📊 Algumas Conclusões
 O Primeiro gráfico é uma comparação direta entre uma média das notas das atividades e o recebimento da atividade,
 isso para tentar comparar e identificar qual atividade com maior nota e maior número de entrega, conseguindo descobrir a "Atividade mais fácil" e o inverso sendo a "Atividade mais díficil".
@@ -15,7 +20,7 @@ isso para tentar comparar e identificar qual atividade com maior nota e maior n�
 O Segundo gráfico é um, tira dúvida entre a Atividade 3 e Atividade 4, para realmente saber entre as duas qual possui menor nota media.
 ![Web 1](https://github.com/edu-doc/AnaliseSimples/blob/main/fotos/grafico2.png)
 
-O Terceiro gráfico é uma comparação direta de atividades feitas na aula versus atividades feitas em casa, para vê se existe um melhor rendimento do aluno com atividades na sala ou para entregar depois.
+O Terceiro gráfico é uma comparação direta de atividades feitas na aula versus atividades feitas para entregar depois, para vê se existe um melhor rendimento do aluno em qual categoria.
 ![Web 1](https://github.com/edu-doc/AnaliseSimples/blob/main/fotos/grafico3.png)
 
 # 💻Tecnologias utilizadas
