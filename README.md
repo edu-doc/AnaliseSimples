@@ -17,7 +17,7 @@ O Primeiro gráfico é uma comparação direta entre uma média das notas das at
 isso para tentar comparar e identificar qual atividade com maior nota e maior número de entrega, conseguindo descobrir a "Atividade mais fácil" e o inverso sendo a "Atividade mais díficil".
 ![Web 1](https://github.com/edu-doc/AnaliseSimples/blob/main/fotos/grafico1.png)
 
-O Segundo gráfico é um, tira dúvida entre a Atividade 3 e Atividade 4, para realmente saber entre as duas qual possui menor nota media.
+O Segundo gráfico é um, tira dúvida entre a Atividade 3 e Atividade 4, para realmente saber entre as duas qual possui menor nota media por atividade.
 ![Web 1](https://github.com/edu-doc/AnaliseSimples/blob/main/fotos/grafico2.png)
 
 O Terceiro gráfico é uma comparação direta de atividades feitas na aula versus atividades feitas para entregar depois, para vê se existe um melhor rendimento do aluno em qual categoria.
